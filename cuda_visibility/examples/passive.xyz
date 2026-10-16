@@ -1,0 +1,2 @@
+# This voxel stays in the occlusion map but is removed from active demand.
+0 0 1
